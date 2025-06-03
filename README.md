@@ -16,19 +16,17 @@
 - 💬 Ask me about **JavaScript, React.js, Node.js, Firebase, and MongoDB**
 - 🛠️ I love building web applications with dynamic UIs and real-time features
 - 🎨 I also enjoy working on **UI/UX design** and prototyping in **Figma**
-- 📫 Reach me at **jatingarg94786@gmail.com**
+- 📫 Reach me at **gauravgarg514@gmail.com**
 
 ---
 
 ### 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in//" target="blank">
+  <a href="https://www.linkedin.com/in/gaurav-garg-1287a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatingarg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/jatingarg81" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatingarg81" height="30" width="40" />
-  </a>
+  
 </p>
 
 ---
